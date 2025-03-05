@@ -1,0 +1,10 @@
+div.box{
+    background-color: aqua;
+    width: 100%;
+}
+
+@media (max-width: 600px) {
+    div.box {
+      background-color: red;
+    }
+  }
